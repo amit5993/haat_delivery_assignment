@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.main.MainActivity">
+
+    <FrameLayout
+        android:id="@+id/fragmentContainer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_2sdp"
+        android:background="@drawable/shape_drawable" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_gravity="bottom"
+        android:background="@color/colorWhite">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorWhite"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imgOne"
+                    style="@style/bottomNavigationIcon"
+                    android:src="@drawable/ic_restaurant" />
+
+                <TextView
+                    android:id="@+id/tvOne"
+                    style="@style/bottomNavigationText"
+                    android:text="@string/restaurants" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imgTwo"
+                    style="@style/bottomNavigationIcon"
+                    android:src="@drawable/ic_market" />
+
+                <TextView
+                    android:id="@+id/tvTwo"
+                    style="@style/bottomNavigationText"
+                    android:text="@string/market" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imgThree"
+                    style="@style/bottomNavigationIcon"
+                    android:src="@drawable/ic_market" />
+
+                <TextView
+                    android:id="@+id/tvThree"
+                    style="@style/bottomNavigationText"
+                    android:text="@string/my_cart" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imgFour"
+                    style="@style/bottomNavigationIcon"
+                    android:src="@drawable/ic_order" />
+
+                <TextView
+                    android:id="@+id/tvFour"
+                    style="@style/bottomNavigationText"
+                    android:text="@string/my_orders" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imgFive"
+                    style="@style/bottomNavigationIcon"
+                    android:src="@drawable/ic_profile" />
+
+                <TextView
+                    android:id="@+id/tvFive"
+                    style="@style/bottomNavigationText"
+                    android:text="@string/profile" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.ashokvarma.bottomnavigation.BottomNavigationBar
+                android:id="@+id/navigation"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/colorTransparent"
+                android:focusable="false"
+                app:bnbBackgroundColor="@color/colorTransparent"
+                app:bnbElevation="0dp"
+                app:itemTextAppearance="?android:textAppearanceLarge"
+                app:tabRippleColor="@null" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

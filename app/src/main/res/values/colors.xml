@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#BD0233</color>
+
+    <color name="colorProgress">#DFDFDF</color>
+
+    <color name="colorPrintTitle">#948fe3</color>
+    <color name="colorPrintBG">#f7f7f7</color>
+
+    <color name="colorOne">#b833ab</color>
+    <color name="colorTwo">#8545bc</color>
+    <color name="colorThree">#555ccd</color>
+    <color name="colorLightGreen">#4CAF50</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#c84c4c4c</color>
+
+    <color name="colorLightWhite">#b4ffffff</color>
+
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorTransparentGrey">#75000000</color>
+
+    <color name="colorOrange">#FFA500</color>
+    <color name="colorOrangeLight">#f1c97f</color>
+    <color name="colorLightGrey">#fafafa</color>
+
+    <color name="colorGrey">#BCBCBC</color>
+    <color name="colorTabBGUnSelected">#f5f5f5</color>
+
+    <color name="colorLightBG">#662a5934</color>
+
+    <color name="colorBookedSlots">#F69898</color>
+    <color name="colorBookedSlotsBorder">#F69898</color>
+    <color name="colorPinkLight">#fac8c8</color>
+    <color name="colorBookedSlotsFont">#FFFFFF</color>
+
+    <color name="colorSlots">#FFFFFF</color>
+    <color name="colorSlotsBorder">#E2E8EA</color>
+    <color name="colorSlotsFont">#000000</color>
+
+    <color name="colorSelectedSlots">#15BA34</color>
+    <color name="colorSelectedSlotsBorder">#15BA34</color>
+    <color name="colorgreenlight">#88e299</color>
+    <color name="colorSelectedSlotsFont">#FFFFFF</color>
+
+    <color name="orange">#FF9900</color>
+    <color name="yellow">#FFC107</color>
+    <color name="green">#009900</color>
+    <color name="blue">#000099</color>
+    <color name="bluelight">#c7eaeafa</color>
+    <color name="colorLightGreenBG">#C8F1D0</color>
+
+    <color name="colorButtonDynamic">#F4F4F4</color>
+    <color name="colorButtonDynamicClick">#E6E6E6</color>
+    <color name="colorSquareTint">#F0BEBEBE</color>
+    <color name="color_bg">#f7f6f8</color>
+
+    <color name="colorToolbarText">#666666</color>
+    <color name="colorIcon">#666666</color>
+    <color name="colorDarkGrey">#808080</color>
+    <color name="colorButtonBG">#ECECEC</color>
+
+    <color name="colorIndicator">#32B8B8B8</color>
+
+    <color name="colorGoogle">#dd4b39</color>
+    <color name="colorFacebook">#3b5998</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorPdfBlack">#0C0C0C</color>
+
+    <color name="colorNavyBlue">#003B65</color>
+    <color name="colorLightNavyBlue">#7796AD</color>
+    <color name="colorLightOrange">#F4A529</color>
+
+    <color name="popup_dialog_list_pressed">#10000000</color>
+    <color name="popup_dialog_list_normal">#ffffff</color>
+    <color name="itemclickColorbg">#EBEBEB</color>
+    <color name="color_template_main_bg">#EDEEEE</color>
+    <!--<color name="colorGray">#707070</color>-->
+    <color name="colorGray">#626262</color>
+    <color name="colorGrayLight">#E9B8B8B8</color>
+    <color name="colorBG">#F6F6FA</color>
+
+    <color name="colorLoginDarkShadow">#c8606060</color>
+    <color name="colorLightBlack">#606060</color>
+    <color name="colorTitle">#393939</color>
+    <color name="colorBlue">#0983FE</color>
+
+    <color name="dashboard_one">#F13F25</color>
+    <color name="dashboard_two">#FFAB00</color>
+    <color name="dashboard_three">#77A922</color>
+    <color name="dashboard_four">#1596F1</color>
+    <color name="dashboard_five">#F78129</color>
+    <color name="dashboard_six">#AB8546</color>
+    <color name="dashboard_seven">#105BAE</color>
+    <color name="dashboard_eight">#7C3CAE</color>
+    <color name="dashboard_nine">#3C3CAC</color>
+    <color name="dashboard_ten">#3BAEA1</color>
+    <color name="dashboard_eleven">#dd4b39</color>
+    <color name="dashboard_twelve">#3b5998</color>
+    <color name="dashboard_thirteen">#006400</color>
+    <color name="dashboard_fourteen">#5880E4</color>
+    <color name="dashboard_fifteen">#823CAD</color>
+    <color name="dashboard_sixteen">#AD3C9E</color>
+    <color name="dashboard_seventeen">#C91F64</color>
+    <color name="dashboard_eightteen">#FF5722</color>
+    <color name="dashboard_nineteen">#8DB916</color>
+    <color name="dashboard_twenty">#24C2B0</color>
+    <color name="dashboard_twentyone">#199AC2</color>
+    <color name="dashboard_twentytwo">#0E77D8</color>
+    <color name="dashboard_twentythree">#C9078E</color>
+
+    <color name="colorTabSelected">#415566</color>
+    <color name="colorTabBorder">#415566</color>
+    <color name="colorRed">#F93030</color>
+    <color name="colorRedLight">#4DD5B5B5</color>
+    <color name="colorDarkRed">#BB0000</color>
+    <color name="colorGreen">#006400</color>
+    <color name="colorWeekDarkGray">#969696</color>
+    <color name="colorWeekBG">#F1F1F1</color>
+    <color name="colorTxtLine">#7B7B7B</color>
+    <color name="colorLine">#7B7B7B</color>
+
+    <color name="colorToastLight">#FCF5D9</color>
+    <color name="colorToastDark">#7D4802</color>
+
+    <color name="colorTabBottomSelected">#ECECEC</color>
+    <color name="colorTabBottomUnselected">#F3F3F3</color>
+
+    <color name="colorTabBottomUnselectedStart">#FFFFFF</color>
+    <color name="colorTabBottomUnselectedCenter">#FFFFFF</color>
+    <color name="colorTabBottomUnselectedEnd">#FFFFFF</color>
+
+    <color name="colorTabBottomSelectedStart">#F3F3F3</color>
+    <color name="colorTabBottomSelectedCenter">#F7F7F7</color>
+    <color name="colorTabBottomSelectedEnd">#FCFCFC</color>
+
+    <color name="colorTabButtonSelected">#B6B6B6</color>
+    <color name="colorTabButtonUnselected">#F3F3F3</color>
+
+    <color name="colorGreyLight">#63D6D6D6</color>
+
+    <color name="colorTabIconSelected">#626262</color>
+    <color name="colorTabIconUnselected">#A0A0A0</color>
+    <color name="colorTabText">#A0A0A0</color>
+
+    <color name="colorListHeaderText">#666666</color>
+    <color name="colorListSubText">#898989</color>
+    <color name="colorArrow">#B2B2B2</color>
+    <color name="colorCardTitle">#757575</color>
+    <color name="colorSquare">#F3F2F2</color>
+    <color name="colorWhiteTabBorder">#EBEBEB</color>
+    <color name="colorSearchBG">#f2f2f2</color>
+
+    <color name="colorUnselectedProLight">#C7C7C7</color>
+    <color name="colorUnselectedLight">#ACACAC</color>
+    <color name="colorUnselectedDark">#969696</color>
+
+    <color name="colorBottomButton">#f3f3f3</color>
+    <color name="BlueProLight">#7194E5</color>
+    <color name="BlueLight">#658BE4</color>
+    <color name="BlueDark">#5880E4</color>
+    <color name="RedProLight">#EC595A</color>
+    <color name="RedLight">#EB4545</color>
+    <color name="RedDark">#EA3232</color>
+    <color name="OrangeProLight">#E9AE54</color>
+    <color name="OrangeLight">#FFA423</color>
+    <color name="OrangeDark">#F29301</color>
+
+    <color name="ucrop_color_widget_active">#F29301</color>
+
+
+    <color name="colorYellow">#ff7b55</color>
+    <color name="shimmer_placeholder_color">#E0E0E0</color>
+
+
+</resources>

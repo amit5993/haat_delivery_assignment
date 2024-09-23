@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="google_key">AIzaSyCgCvOZcuixd31dn26V4Ab-SOHDMxjpwiQ</string>
+
+    <string name="msg_no_internet">Internet connection not found. Please check your connection.</string>
+    <string name="retry">Retry</string>
+    <string name="please_click_back_again_to_exit">Please click BACK again to exit</string>
+    <string name="no_connection">No internet Connection</string>
+    <string name="are_you_sure_you_want_to_delete">Are you sure you want to Delete?</string>
+    <string name="turn_on_connection">Please turn on internet connection to continue</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="alert">Alert</string>
+    <string name="loading">Loading...</string>
+    <string name="are_you_sure_you_want_to_logout">Are you sure you want to logout!</string>
+    <string name="please_sign_in">Please Sign In!</string>
+    <string name="please_first_do_sign_in">Please first do Sign In</string>
+    <string name="choose_your_option">Choose your option!</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="need_permissions">Need Permissions</string>
+    <string name="app_need_to_permissions">App Need to permissions \n Goto App Setting and Allow Permission All of them</string>
+    <string name="app_setting">App Setting</string>
+    <string name="go_to_permissions">Go to Permissions to Grant All Permission</string>
+    <string name="unable_to_get_permission">Unable to get Permission</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="market">Market</string>
+    <string name="my_cart">My Cart</string>
+    <string name="my_orders">My Orders</string>
+    <string name="profile">Profile</string>
+    <string name="order_history">Order History</string>
+
+</resources>

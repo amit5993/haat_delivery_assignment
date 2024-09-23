@@ -1,0 +1,7 @@
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">user-app-staging.haat-apis.com</domain>
+        <domain includeSubdomains="true">user-new-app-staging.internal.haat.delivery</domain>
+        <domain includeSubdomains="true">user-app-staging.internal.haat.delivery</domain>
+    </domain-config>
+</network-security-config>
